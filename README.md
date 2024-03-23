@@ -137,5 +137,5 @@ Thank you for considering this project. If you have any questions, please do not
 
 
 ## Contact
-Prashant Singh Chauhan - [@email](gmail.com) - chauhanp72@gmail.com
+Prashant Singh Chauhan - chauhanp72@gmail.com
 
