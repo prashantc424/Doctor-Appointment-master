@@ -108,6 +108,9 @@ Note: Please note that these are general instructions for setting up an Express 
 - **TypeScript:** A superset of JavaScript that adds static typing, enhancing code quality and maintainability.
 - **Prisma**: A modern database toolkit for Node.js and TypeScript, used for database access and management.
 
+  ## Project Screenshot In PDF
+![DoctorOnCall OverView](https://github.com/prashantc424/Doctor-Appointment-master/blob/main/Doctor%20Appointment%20Booking%20System.pdf)
+
 ## Contributing:
 
 1. Fork the repository by clicking the "Fork" button on the top right corner of the project's GitHub page. This will create a copy of the project in your own GitHub account.
