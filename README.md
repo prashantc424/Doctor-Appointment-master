@@ -108,9 +108,6 @@ Note: Please note that these are general instructions for setting up an Express 
 - **TypeScript:** A superset of JavaScript that adds static typing, enhancing code quality and maintainability.
 - **Prisma**: A modern database toolkit for Node.js and TypeScript, used for database access and management.
 
- ## Project Screenshot
-![DoctorOnCall OverView](https://github-production-user-asset-6210df.s3.amazonaws.com/49386888/309568548-eeed56ce-3d9a-464d-91e5-588ea81ec5c0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240323T190521Z&X-Amz-Expires=300&X-Amz-Signature=6c04dede9789c82b0aa5d2e8dfb7a094381bb98b58406e10ccd33564e7d32186&X-Amz-SignedHeaders=host&actor_id=129265814&key_id=0&repo_id=362553772)
-
 ## Contributing:
 
 1. Fork the repository by clicking the "Fork" button on the top right corner of the project's GitHub page. This will create a copy of the project in your own GitHub account.
